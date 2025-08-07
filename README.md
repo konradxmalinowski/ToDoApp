@@ -71,7 +71,8 @@ _Frontend runs on `http://localhost:4200`_
 
 ## 📸 Screenshots
 
-> _Add screenshots here to showcase your app UI!_
+<img width="913" height="513" alt="image" src="https://github.com/user-attachments/assets/962771d2-7d09-4616-8f25-3ebc86a5d234" />
+
 
 ---
 
