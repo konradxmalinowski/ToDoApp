@@ -73,10 +73,3 @@ _Frontend runs on `http://localhost:4200`_
 
 <img width="913" height="513" alt="image" src="https://github.com/user-attachments/assets/962771d2-7d09-4616-8f25-3ebc86a5d234" />
 
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!  
-Feel free to open issues or submit pull requests.
